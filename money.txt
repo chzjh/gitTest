@@ -7,4 +7,4 @@ money
 
 88
 yy
-f1_master
+f1
