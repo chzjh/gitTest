@@ -9,3 +9,5 @@ money
 yy
 f1
 f2
+dev_update
+bug_update
